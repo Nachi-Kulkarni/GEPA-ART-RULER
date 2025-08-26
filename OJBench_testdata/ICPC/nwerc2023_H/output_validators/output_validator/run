@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+
+set +e
+
+# called as:
+# ./run in ans feedback_dir [additional arguments] < out [> interactive_input]
+input=$1
+answer=$2
+feedbackdir=$3
+
+# relevant files in feedback_dir:
+# teammessage.txt (not in use for ICPC contests)
+judgemessage=${feedbackdir}judgemessage.txt
+scriptdir=${0%/*}
+
+# copy stdin to tempfile, so that we can reuse it
+output=$(mktemp -p /tmp "NWERC-test-XXXXXX.out")
+cat > $output
+
+"${scriptdir}/validate_using_insights" $input $answer $feedbackdir < $output
+ret_insights=$?
+
+"${scriptdir}/validate_using_modulo" $input $answer $feedbackdir < $output
+ret_modulo=$?
+
+rm $output
+
+if [ "$ret_insights" = "$ret_modulo" ] ; then
+    exit $ret_insights
+else
+    echo "The two validators should have the same result!" >> $judgemessage
+    echo "validate_using_insights exited with $ret_insights" >> $judgemessage
+    echo "validate_using_modulo exited with $ret_modulo" >> $judgemessage
+    echo "PLEASE INVESTIGATE THIS" >> $judgemessage
+    cat $judgemessage >&2
+    exit 1
+fi

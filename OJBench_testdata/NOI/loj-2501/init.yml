@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: wireless6.in
+  out: wireless6.ans
+  points: 10
+- in: wireless9.in
+  out: wireless9.ans
+  points: 10
+- in: wireless10.in
+  out: wireless10.ans
+  points: 10
+- in: wireless7.in
+  out: wireless7.ans
+  points: 10
+- in: wireless5.in
+  out: wireless5.ans
+  points: 10
+- in: wireless3.in
+  out: wireless3.ans
+  points: 10
+- in: wireless8.in
+  out: wireless8.ans
+  points: 10
+- in: wireless4.in
+  out: wireless4.ans
+  points: 10
+- in: wireless2.in
+  out: wireless2.ans
+  points: 10
+- in: wireless1.in
+  out: wireless1.ans
+  points: 10

@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: tribool6.in
+  out: tribool6.ans
+  points: 10
+- in: tribool10.in
+  out: tribool10.ans
+  points: 10
+- in: tribool1.in
+  out: tribool1.ans
+  points: 10
+- in: tribool2.in
+  out: tribool2.ans
+  points: 10
+- in: tribool4.in
+  out: tribool4.ans
+  points: 10
+- in: tribool9.in
+  out: tribool9.ans
+  points: 10
+- in: tribool8.in
+  out: tribool8.ans
+  points: 10
+- in: tribool5.in
+  out: tribool5.ans
+  points: 10
+- in: tribool7.in
+  out: tribool7.ans
+  points: 10
+- in: tribool3.in
+  out: tribool3.ans
+  points: 10

@@ -1,0 +1,27 @@
+archive: data.zip
+output_limit_length: 104857600
+test_cases:
+- in: secret04.in
+  out: secret04.ans
+  points: 1
+- in: secret05.in
+  out: secret05.ans
+  points: 1
+- in: secret06.in
+  out: secret06.ans
+  points: 1
+- in: secret07.in
+  out: secret07.ans
+  points: 1
+- in: secret08.in
+  out: secret08.ans
+  points: 1
+- in: secret09.in
+  out: secret09.ans
+  points: 1
+- in: secret10.in
+  out: secret10.ans
+  points: 1
+- in: secret11.in
+  out: secret11.ans
+  points: 1

@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: galaxy8.in
+  out: galaxy8.ans
+  points: 10
+- in: galaxy6.in
+  out: galaxy6.ans
+  points: 10
+- in: galaxy4.in
+  out: galaxy4.ans
+  points: 10
+- in: galaxy2.in
+  out: galaxy2.ans
+  points: 10
+- in: galaxy1.in
+  out: galaxy1.ans
+  points: 10
+- in: galaxy5.in
+  out: galaxy5.ans
+  points: 10
+- in: galaxy10.in
+  out: galaxy10.ans
+  points: 10
+- in: galaxy7.in
+  out: galaxy7.ans
+  points: 10
+- in: galaxy3.in
+  out: galaxy3.ans
+  points: 10
+- in: galaxy9.in
+  out: galaxy9.ans
+  points: 10

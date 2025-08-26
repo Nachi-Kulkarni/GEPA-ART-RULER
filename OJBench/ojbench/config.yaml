@@ -1,0 +1,3 @@
+languages:
+  cpp: CPP17
+  python: PYPY3

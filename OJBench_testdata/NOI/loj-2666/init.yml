@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: train1.in
+  out: train1.ans
+  points: 10
+- in: train10.in
+  out: train10.ans
+  points: 10
+- in: train9.in
+  out: train9.ans
+  points: 10
+- in: train5.in
+  out: train5.ans
+  points: 10
+- in: train8.in
+  out: train8.ans
+  points: 10
+- in: train7.in
+  out: train7.ans
+  points: 10
+- in: train2.in
+  out: train2.ans
+  points: 10
+- in: train6.in
+  out: train6.ans
+  points: 10
+- in: train3.in
+  out: train3.ans
+  points: 10
+- in: train4.in
+  out: train4.ans
+  points: 10

@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: prison2.in
+  out: prison2.ans
+  points: 10
+- in: prison7.in
+  out: prison7.ans
+  points: 10
+- in: prison5.in
+  out: prison5.ans
+  points: 10
+- in: prison1.in
+  out: prison1.ans
+  points: 10
+- in: prison8.in
+  out: prison8.ans
+  points: 10
+- in: prison3.in
+  out: prison3.ans
+  points: 10
+- in: prison4.in
+  out: prison4.ans
+  points: 10
+- in: prison9.in
+  out: prison9.ans
+  points: 10
+- in: prison10.in
+  out: prison10.ans
+  points: 10
+- in: prison6.in
+  out: prison6.ans
+  points: 10

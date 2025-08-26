@@ -1,0 +1,1065 @@
+[
+  {
+    "id": "cf_2130_B",
+    "source": "codeforces",
+    "contest_id": 2130,
+    "index": "B",
+    "name": "Pathless",
+    "difficulty": 1100,
+    "solved_count": 17288,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2130/B",
+    "prompt": "Problem: Pathless\n\nDifficulty: 1100\nTags: constructive algorithms\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2130_A",
+    "source": "codeforces",
+    "contest_id": 2130,
+    "index": "A",
+    "name": "Submission is All You Need",
+    "difficulty": 800,
+    "solved_count": 24193,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2130/A",
+    "prompt": "Problem: Submission is All You Need\n\nDifficulty: 800\nTags: greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2129_B",
+    "source": "codeforces",
+    "contest_id": 2129,
+    "index": "B",
+    "name": "Stay or Mirror",
+    "difficulty": 1600,
+    "solved_count": 9290,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2129/B",
+    "prompt": "Problem: Stay or Mirror\n\nDifficulty: 1600\nTags: brute force, data structures, dp, greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2129_A",
+    "source": "codeforces",
+    "contest_id": 2129,
+    "index": "A",
+    "name": "Double Perspective",
+    "difficulty": 1300,
+    "solved_count": 12402,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2129/A",
+    "prompt": "Problem: Double Perspective\n\nDifficulty: 1300\nTags: constructive algorithms, dp, dsu, graphs, greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2128_D",
+    "source": "codeforces",
+    "contest_id": 2128,
+    "index": "D",
+    "name": "Sum of LDS",
+    "difficulty": 1600,
+    "solved_count": 8555,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2128/D",
+    "prompt": "Problem: Sum of LDS\n\nDifficulty: 1600\nTags: brute force, combinatorics, dp, greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2128_C",
+    "source": "codeforces",
+    "contest_id": 2128,
+    "index": "C",
+    "name": "Leftmost Below",
+    "difficulty": 1200,
+    "solved_count": 15510,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2128/C",
+    "prompt": "Problem: Leftmost Below\n\nDifficulty: 1200\nTags: greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2128_B",
+    "source": "codeforces",
+    "contest_id": 2128,
+    "index": "B",
+    "name": "Deque Process",
+    "difficulty": 1100,
+    "solved_count": 17212,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2128/B",
+    "prompt": "Problem: Deque Process\n\nDifficulty: 1100\nTags: constructive algorithms, greedy, sortings, two pointers\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2128_A",
+    "source": "codeforces",
+    "contest_id": 2128,
+    "index": "A",
+    "name": "Recycling Center",
+    "difficulty": 800,
+    "solved_count": 23586,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2128/A",
+    "prompt": "Problem: Recycling Center\n\nDifficulty: 800\nTags: greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2127_C",
+    "source": "codeforces",
+    "contest_id": 2127,
+    "index": "C",
+    "name": "Trip Shopping",
+    "difficulty": 1400,
+    "solved_count": 8963,
+    "tags": [
+      "games",
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2127/C",
+    "prompt": "Problem: Trip Shopping\n\nDifficulty: 1400\nTags: games, greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2127_B",
+    "source": "codeforces",
+    "contest_id": 2127,
+    "index": "B",
+    "name": "Hamiiid, Haaamid... Hamid?",
+    "difficulty": 1300,
+    "solved_count": 11205,
+    "tags": [
+      "games",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2127/B",
+    "prompt": "Problem: Hamiiid, Haaamid... Hamid?\n\nDifficulty: 1300\nTags: games, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2127_A",
+    "source": "codeforces",
+    "contest_id": 2127,
+    "index": "A",
+    "name": "Mix Mex Max",
+    "difficulty": 800,
+    "solved_count": 16872,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2127/A",
+    "prompt": "Problem: Mix Mex Max\n\nDifficulty: 800\nTags: constructive algorithms, greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2126_E",
+    "source": "codeforces",
+    "contest_id": 2126,
+    "index": "E",
+    "name": "G-C-D, Unlucky!",
+    "difficulty": 1400,
+    "solved_count": 13458,
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2126/E",
+    "prompt": "Problem: G-C-D, Unlucky!\n\nDifficulty: 1400\nTags: math, number theory\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2126_D",
+    "source": "codeforces",
+    "contest_id": 2126,
+    "index": "D",
+    "name": "This Is the Last Time",
+    "difficulty": 1200,
+    "solved_count": 19712,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2126/D",
+    "prompt": "Problem: This Is the Last Time\n\nDifficulty: 1200\nTags: data structures, greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2126_C",
+    "source": "codeforces",
+    "contest_id": 2126,
+    "index": "C",
+    "name": "I Will Definitely Make It",
+    "difficulty": 1100,
+    "solved_count": 22739,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2126/C",
+    "prompt": "Problem: I Will Definitely Make It\n\nDifficulty: 1100\nTags: greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2126_B",
+    "source": "codeforces",
+    "contest_id": 2126,
+    "index": "B",
+    "name": "No Casino in the Mountains",
+    "difficulty": 800,
+    "solved_count": 32376,
+    "tags": [
+      "dp",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2126/B",
+    "prompt": "Problem: No Casino in the Mountains\n\nDifficulty: 800\nTags: dp, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2126_A",
+    "source": "codeforces",
+    "contest_id": 2126,
+    "index": "A",
+    "name": "Only One Digit",
+    "difficulty": 800,
+    "solved_count": 41914,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2126/A",
+    "prompt": "Problem: Only One Digit\n\nDifficulty: 800\nTags: brute force, implementation, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2125_D",
+    "source": "codeforces",
+    "contest_id": 2125,
+    "index": "D",
+    "name": "Segments Covering",
+    "difficulty": 1600,
+    "solved_count": 7452,
+    "tags": [
+      "dp",
+      "math",
+      "probabilities"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2125/D",
+    "prompt": "Problem: Segments Covering\n\nDifficulty: 1600\nTags: dp, math, probabilities\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2125_C",
+    "source": "codeforces",
+    "contest_id": 2125,
+    "index": "C",
+    "name": "Count Good Numbers",
+    "difficulty": 1100,
+    "solved_count": 18907,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2125/C",
+    "prompt": "Problem: Count Good Numbers\n\nDifficulty: 1100\nTags: bitmasks, combinatorics, math, number theory\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2125_B",
+    "source": "codeforces",
+    "contest_id": 2125,
+    "index": "B",
+    "name": "Left and Down",
+    "difficulty": 900,
+    "solved_count": 22292,
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2125/B",
+    "prompt": "Problem: Left and Down\n\nDifficulty: 900\nTags: math, number theory\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2125_A",
+    "source": "codeforces",
+    "contest_id": 2125,
+    "index": "A",
+    "name": "Difficult Contest",
+    "difficulty": 800,
+    "solved_count": 24511,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "sortings",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2125/A",
+    "prompt": "Problem: Difficult Contest\n\nDifficulty: 800\nTags: constructive algorithms, implementation, sortings, strings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2124_C",
+    "source": "codeforces",
+    "contest_id": 2124,
+    "index": "C",
+    "name": "Subset Multiplication",
+    "difficulty": 1300,
+    "solved_count": 12227,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2124/C",
+    "prompt": "Problem: Subset Multiplication\n\nDifficulty: 1300\nTags: constructive algorithms, greedy, math, number theory\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2124_B",
+    "source": "codeforces",
+    "contest_id": 2124,
+    "index": "B",
+    "name": "Minimise Sum",
+    "difficulty": 1000,
+    "solved_count": 16620,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2124/B",
+    "prompt": "Problem: Minimise Sum\n\nDifficulty: 1000\nTags: greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2124_A",
+    "source": "codeforces",
+    "contest_id": 2124,
+    "index": "A",
+    "name": "Deranged Deletions",
+    "difficulty": 800,
+    "solved_count": 17512,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2124/A",
+    "prompt": "Problem: Deranged Deletions\n\nDifficulty: 800\nTags: greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2123_E",
+    "source": "codeforces",
+    "contest_id": 2123,
+    "index": "E",
+    "name": "MEX Count",
+    "difficulty": 1400,
+    "solved_count": 12308,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2123/E",
+    "prompt": "Problem: MEX Count\n\nDifficulty: 1400\nTags: binary search, data structures, greedy, sortings, two pointers\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2123_D",
+    "source": "codeforces",
+    "contest_id": 2123,
+    "index": "D",
+    "name": "Binary String Battle",
+    "difficulty": 1200,
+    "solved_count": 18691,
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2123/D",
+    "prompt": "Problem: Binary String Battle\n\nDifficulty: 1200\nTags: constructive algorithms, games, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2123_C",
+    "source": "codeforces",
+    "contest_id": 2123,
+    "index": "C",
+    "name": "Prefix Min and Suffix Max",
+    "difficulty": 1000,
+    "solved_count": 26497,
+    "tags": [
+      "brute force",
+      "data structures"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2123/C",
+    "prompt": "Problem: Prefix Min and Suffix Max\n\nDifficulty: 1000\nTags: brute force, data structures\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2123_B",
+    "source": "codeforces",
+    "contest_id": 2123,
+    "index": "B",
+    "name": "Tournament",
+    "difficulty": 800,
+    "solved_count": 31010,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2123/B",
+    "prompt": "Problem: Tournament\n\nDifficulty: 800\nTags: greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2123_A",
+    "source": "codeforces",
+    "contest_id": 2123,
+    "index": "A",
+    "name": "Blackboard Game",
+    "difficulty": 800,
+    "solved_count": 36473,
+    "tags": [
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2123/A",
+    "prompt": "Problem: Blackboard Game\n\nDifficulty: 800\nTags: math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2122_B",
+    "source": "codeforces",
+    "contest_id": 2122,
+    "index": "B",
+    "name": "Pile Shuffling",
+    "difficulty": 1100,
+    "solved_count": 13317,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2122/B",
+    "prompt": "Problem: Pile Shuffling\n\nDifficulty: 1100\nTags: greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2122_A",
+    "source": "codeforces",
+    "contest_id": 2122,
+    "index": "A",
+    "name": "Greedy Grid",
+    "difficulty": 800,
+    "solved_count": 17266,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2122/A",
+    "prompt": "Problem: Greedy Grid\n\nDifficulty: 800\nTags: constructive algorithms, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2121_E",
+    "source": "codeforces",
+    "contest_id": 2121,
+    "index": "E",
+    "name": "Sponsor of Your Problems",
+    "difficulty": 1500,
+    "solved_count": 11847,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/E",
+    "prompt": "Problem: Sponsor of Your Problems\n\nDifficulty: 1500\nTags: dp, greedy, implementation, strings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2121_D",
+    "source": "codeforces",
+    "contest_id": 2121,
+    "index": "D",
+    "name": "1709",
+    "difficulty": 1300,
+    "solved_count": 15403,
+    "tags": [
+      "implementation",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/D",
+    "prompt": "Problem: 1709\n\nDifficulty: 1300\nTags: implementation, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2121_C",
+    "source": "codeforces",
+    "contest_id": 2121,
+    "index": "C",
+    "name": "Those Who Are With Us",
+    "difficulty": 1200,
+    "solved_count": 18535,
+    "tags": [
+      "greedy",
+      "greedy",
+      "implementation"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/C",
+    "prompt": "Problem: Those Who Are With Us\n\nDifficulty: 1200\nTags: greedy, greedy, implementation\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2121_B",
+    "source": "codeforces",
+    "contest_id": 2121,
+    "index": "B",
+    "name": "Above the Clouds",
+    "difficulty": 800,
+    "solved_count": 29393,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/B",
+    "prompt": "Problem: Above the Clouds\n\nDifficulty: 800\nTags: constructive algorithms, greedy, strings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2121_A",
+    "source": "codeforces",
+    "contest_id": 2121,
+    "index": "A",
+    "name": "Letter Home",
+    "difficulty": 800,
+    "solved_count": 34840,
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/A",
+    "prompt": "Problem: Letter Home\n\nDifficulty: 800\nTags: brute force, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2120_C",
+    "source": "codeforces",
+    "contest_id": 2120,
+    "index": "C",
+    "name": "Divine Tree",
+    "difficulty": 1400,
+    "solved_count": 10415,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2120/C",
+    "prompt": "Problem: Divine Tree\n\nDifficulty: 1400\nTags: constructive algorithms, greedy, math, sortings, trees\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2120_B",
+    "source": "codeforces",
+    "contest_id": 2120,
+    "index": "B",
+    "name": "Square Pool",
+    "difficulty": 1000,
+    "solved_count": 15578,
+    "tags": [
+      "geometry"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2120/B",
+    "prompt": "Problem: Square Pool\n\nDifficulty: 1000\nTags: geometry\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2120_A",
+    "source": "codeforces",
+    "contest_id": 2120,
+    "index": "A",
+    "name": "Square of Rectangles",
+    "difficulty": 800,
+    "solved_count": 18338,
+    "tags": [
+      "geometry",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2120/A",
+    "prompt": "Problem: Square of Rectangles\n\nDifficulty: 800\nTags: geometry, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2119_C",
+    "source": "codeforces",
+    "contest_id": 2119,
+    "index": "C",
+    "name": "A Good Problem",
+    "difficulty": 1300,
+    "solved_count": 13316,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2119/C",
+    "prompt": "Problem: A Good Problem\n\nDifficulty: 1300\nTags: bitmasks, constructive algorithms, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2119_B",
+    "source": "codeforces",
+    "contest_id": 2119,
+    "index": "B",
+    "name": "Line Segments",
+    "difficulty": 1200,
+    "solved_count": 15391,
+    "tags": [
+      "geometry",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2119/B",
+    "prompt": "Problem: Line Segments\n\nDifficulty: 1200\nTags: geometry, greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2119_A",
+    "source": "codeforces",
+    "contest_id": 2119,
+    "index": "A",
+    "name": "Add or XOR",
+    "difficulty": 800,
+    "solved_count": 23342,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2119/A",
+    "prompt": "Problem: Add or XOR\n\nDifficulty: 800\nTags: bitmasks, greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2118_C",
+    "source": "codeforces",
+    "contest_id": 2118,
+    "index": "C",
+    "name": "Make It Beautiful",
+    "difficulty": 1300,
+    "solved_count": 15981,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2118/C",
+    "prompt": "Problem: Make It Beautiful\n\nDifficulty: 1300\nTags: bitmasks, data structures, greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2118_B",
+    "source": "codeforces",
+    "contest_id": 2118,
+    "index": "B",
+    "name": "Make It Permutation",
+    "difficulty": 1200,
+    "solved_count": 17644,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2118/B",
+    "prompt": "Problem: Make It Permutation\n\nDifficulty: 1200\nTags: constructive algorithms\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2118_A",
+    "source": "codeforces",
+    "contest_id": 2118,
+    "index": "A",
+    "name": "Equal Subsequences",
+    "difficulty": 800,
+    "solved_count": 26543,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2118/A",
+    "prompt": "Problem: Equal Subsequences\n\nDifficulty: 800\nTags: constructive algorithms, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2117_E",
+    "source": "codeforces",
+    "contest_id": 2117,
+    "index": "E",
+    "name": "Lost Soul",
+    "difficulty": 1600,
+    "solved_count": 10036,
+    "tags": [
+      "brute force",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/E",
+    "prompt": "Problem: Lost Soul\n\nDifficulty: 1600\nTags: brute force, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2117_D",
+    "source": "codeforces",
+    "contest_id": 2117,
+    "index": "D",
+    "name": "Retaliation",
+    "difficulty": 1200,
+    "solved_count": 18859,
+    "tags": [
+      "binary search",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/D",
+    "prompt": "Problem: Retaliation\n\nDifficulty: 1200\nTags: binary search, math, number theory\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2117_C",
+    "source": "codeforces",
+    "contest_id": 2117,
+    "index": "C",
+    "name": "Cool Partition",
+    "difficulty": 1200,
+    "solved_count": 18129,
+    "tags": [
+      "data structures",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/C",
+    "prompt": "Problem: Cool Partition\n\nDifficulty: 1200\nTags: data structures, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2117_B",
+    "source": "codeforces",
+    "contest_id": 2117,
+    "index": "B",
+    "name": "Shrink",
+    "difficulty": 800,
+    "solved_count": 29021,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/B",
+    "prompt": "Problem: Shrink\n\nDifficulty: 800\nTags: constructive algorithms\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2117_A",
+    "source": "codeforces",
+    "contest_id": 2117,
+    "index": "A",
+    "name": "False Alarm",
+    "difficulty": 800,
+    "solved_count": 33555,
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/A",
+    "prompt": "Problem: False Alarm\n\nDifficulty: 800\nTags: greedy, implementation\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2116_B",
+    "source": "codeforces",
+    "contest_id": 2116,
+    "index": "B",
+    "name": "Gellyfish and Baby's Breath",
+    "difficulty": 1300,
+    "solved_count": 15165,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2116/B",
+    "prompt": "Problem: Gellyfish and Baby's Breath\n\nDifficulty: 1300\nTags: greedy, math, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2116_A",
+    "source": "codeforces",
+    "contest_id": 2116,
+    "index": "A",
+    "name": "Gellyfish and Tricolor Pansy",
+    "difficulty": 800,
+    "solved_count": 24587,
+    "tags": [
+      "games",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2116/A",
+    "prompt": "Problem: Gellyfish and Tricolor Pansy\n\nDifficulty: 800\nTags: games, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2115_A",
+    "source": "codeforces",
+    "contest_id": 2115,
+    "index": "A",
+    "name": "Gellyfish and Flaming Peony",
+    "difficulty": 1500,
+    "solved_count": 12004,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2115/A",
+    "prompt": "Problem: Gellyfish and Flaming Peony\n\nDifficulty: 1500\nTags: constructive algorithms, dp, math, number theory\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2114_E",
+    "source": "codeforces",
+    "contest_id": 2114,
+    "index": "E",
+    "name": "Kirei Attacks the Estate",
+    "difficulty": 1400,
+    "solved_count": 11485,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/E",
+    "prompt": "Problem: Kirei Attacks the Estate\n\nDifficulty: 1400\nTags: dfs and similar, dp, greedy, trees\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2114_D",
+    "source": "codeforces",
+    "contest_id": 2114,
+    "index": "D",
+    "name": "Come a Little Closer",
+    "difficulty": 1400,
+    "solved_count": 12573,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/D",
+    "prompt": "Problem: Come a Little Closer\n\nDifficulty: 1400\nTags: brute force, greedy, implementation, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2114_C",
+    "source": "codeforces",
+    "contest_id": 2114,
+    "index": "C",
+    "name": "Need More Arrays",
+    "difficulty": 1000,
+    "solved_count": 26846,
+    "tags": [
+      "dp",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/C",
+    "prompt": "Problem: Need More Arrays\n\nDifficulty: 1000\nTags: dp, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2114_B",
+    "source": "codeforces",
+    "contest_id": 2114,
+    "index": "B",
+    "name": "Not Quite a Palindromic String",
+    "difficulty": 900,
+    "solved_count": 26924,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/B",
+    "prompt": "Problem: Not Quite a Palindromic String\n\nDifficulty: 900\nTags: greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2114_A",
+    "source": "codeforces",
+    "contest_id": 2114,
+    "index": "A",
+    "name": "Square Year",
+    "difficulty": 800,
+    "solved_count": 37238,
+    "tags": [
+      "binary search",
+      "brute force",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/A",
+    "prompt": "Problem: Square Year\n\nDifficulty: 800\nTags: binary search, brute force, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2113_B",
+    "source": "codeforces",
+    "contest_id": 2113,
+    "index": "B",
+    "name": "Good Start",
+    "difficulty": 1200,
+    "solved_count": 12287,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2113/B",
+    "prompt": "Problem: Good Start\n\nDifficulty: 1200\nTags: constructive algorithms, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2113_A",
+    "source": "codeforces",
+    "contest_id": 2113,
+    "index": "A",
+    "name": "Shashliks",
+    "difficulty": 800,
+    "solved_count": 18104,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2113/A",
+    "prompt": "Problem: Shashliks\n\nDifficulty: 800\nTags: greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2112_C",
+    "source": "codeforces",
+    "contest_id": 2112,
+    "index": "C",
+    "name": "Coloring Game",
+    "difficulty": 1300,
+    "solved_count": 15065,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2112/C",
+    "prompt": "Problem: Coloring Game\n\nDifficulty: 1300\nTags: binary search, brute force, greedy, two pointers\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  }
+]

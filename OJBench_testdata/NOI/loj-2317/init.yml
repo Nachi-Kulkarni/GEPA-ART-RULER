@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: cheese2.in
+  out: cheese2.ans
+  points: 10
+- in: cheese5.in
+  out: cheese5.ans
+  points: 10
+- in: cheese3.in
+  out: cheese3.ans
+  points: 10
+- in: cheese10.in
+  out: cheese10.ans
+  points: 10
+- in: cheese1.in
+  out: cheese1.ans
+  points: 10
+- in: cheese6.in
+  out: cheese6.ans
+  points: 10
+- in: cheese7.in
+  out: cheese7.ans
+  points: 10
+- in: cheese8.in
+  out: cheese8.ans
+  points: 10
+- in: cheese9.in
+  out: cheese9.ans
+  points: 10
+- in: cheese4.in
+  out: cheese4.ans
+  points: 10

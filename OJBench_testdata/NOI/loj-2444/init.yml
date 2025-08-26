@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: type3.in
+  out: type3.ans
+  points: 10
+- in: type7.in
+  out: type7.ans
+  points: 10
+- in: type2.in
+  out: type2.ans
+  points: 10
+- in: type9.in
+  out: type9.ans
+  points: 10
+- in: type4.in
+  out: type4.ans
+  points: 10
+- in: type8.in
+  out: type8.ans
+  points: 10
+- in: type6.in
+  out: type6.ans
+  points: 10
+- in: type1.in
+  out: type1.ans
+  points: 10
+- in: type5.in
+  out: type5.ans
+  points: 10
+- in: type10.in
+  out: type10.ans
+  points: 10

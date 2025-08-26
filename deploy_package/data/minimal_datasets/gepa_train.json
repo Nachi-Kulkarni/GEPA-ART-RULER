@@ -1,0 +1,374 @@
+[
+  {
+    "id": "cf_2127_B",
+    "source": "codeforces",
+    "contest_id": 2127,
+    "index": "B",
+    "name": "Hamiiid, Haaamid... Hamid?",
+    "difficulty": 1300,
+    "solved_count": 11205,
+    "tags": [
+      "games",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2127/B",
+    "prompt": "Problem: Hamiiid, Haaamid... Hamid?\n\nDifficulty: 1300\nTags: games, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2130_A",
+    "source": "codeforces",
+    "contest_id": 2130,
+    "index": "A",
+    "name": "Submission is All You Need",
+    "difficulty": 800,
+    "solved_count": 24193,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2130/A",
+    "prompt": "Problem: Submission is All You Need\n\nDifficulty: 800\nTags: greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2116_A",
+    "source": "codeforces",
+    "contest_id": 2116,
+    "index": "A",
+    "name": "Gellyfish and Tricolor Pansy",
+    "difficulty": 800,
+    "solved_count": 24587,
+    "tags": [
+      "games",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2116/A",
+    "prompt": "Problem: Gellyfish and Tricolor Pansy\n\nDifficulty: 800\nTags: games, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2126_A",
+    "source": "codeforces",
+    "contest_id": 2126,
+    "index": "A",
+    "name": "Only One Digit",
+    "difficulty": 800,
+    "solved_count": 41914,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2126/A",
+    "prompt": "Problem: Only One Digit\n\nDifficulty: 800\nTags: brute force, implementation, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2114_A",
+    "source": "codeforces",
+    "contest_id": 2114,
+    "index": "A",
+    "name": "Square Year",
+    "difficulty": 800,
+    "solved_count": 37238,
+    "tags": [
+      "binary search",
+      "brute force",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/A",
+    "prompt": "Problem: Square Year\n\nDifficulty: 800\nTags: binary search, brute force, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2123_B",
+    "source": "codeforces",
+    "contest_id": 2123,
+    "index": "B",
+    "name": "Tournament",
+    "difficulty": 800,
+    "solved_count": 31010,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2123/B",
+    "prompt": "Problem: Tournament\n\nDifficulty: 800\nTags: greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2121_E",
+    "source": "codeforces",
+    "contest_id": 2121,
+    "index": "E",
+    "name": "Sponsor of Your Problems",
+    "difficulty": 1500,
+    "solved_count": 11847,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/E",
+    "prompt": "Problem: Sponsor of Your Problems\n\nDifficulty: 1500\nTags: dp, greedy, implementation, strings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2121_C",
+    "source": "codeforces",
+    "contest_id": 2121,
+    "index": "C",
+    "name": "Those Who Are With Us",
+    "difficulty": 1200,
+    "solved_count": 18535,
+    "tags": [
+      "greedy",
+      "greedy",
+      "implementation"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/C",
+    "prompt": "Problem: Those Who Are With Us\n\nDifficulty: 1200\nTags: greedy, greedy, implementation\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2113_A",
+    "source": "codeforces",
+    "contest_id": 2113,
+    "index": "A",
+    "name": "Shashliks",
+    "difficulty": 800,
+    "solved_count": 18104,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2113/A",
+    "prompt": "Problem: Shashliks\n\nDifficulty: 800\nTags: greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2114_B",
+    "source": "codeforces",
+    "contest_id": 2114,
+    "index": "B",
+    "name": "Not Quite a Palindromic String",
+    "difficulty": 900,
+    "solved_count": 26924,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/B",
+    "prompt": "Problem: Not Quite a Palindromic String\n\nDifficulty: 900\nTags: greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2114_E",
+    "source": "codeforces",
+    "contest_id": 2114,
+    "index": "E",
+    "name": "Kirei Attacks the Estate",
+    "difficulty": 1400,
+    "solved_count": 11485,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/E",
+    "prompt": "Problem: Kirei Attacks the Estate\n\nDifficulty: 1400\nTags: dfs and similar, dp, greedy, trees\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2116_B",
+    "source": "codeforces",
+    "contest_id": 2116,
+    "index": "B",
+    "name": "Gellyfish and Baby's Breath",
+    "difficulty": 1300,
+    "solved_count": 15165,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2116/B",
+    "prompt": "Problem: Gellyfish and Baby's Breath\n\nDifficulty: 1300\nTags: greedy, math, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2117_B",
+    "source": "codeforces",
+    "contest_id": 2117,
+    "index": "B",
+    "name": "Shrink",
+    "difficulty": 800,
+    "solved_count": 29021,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/B",
+    "prompt": "Problem: Shrink\n\nDifficulty: 800\nTags: constructive algorithms\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2124_A",
+    "source": "codeforces",
+    "contest_id": 2124,
+    "index": "A",
+    "name": "Deranged Deletions",
+    "difficulty": 800,
+    "solved_count": 17512,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2124/A",
+    "prompt": "Problem: Deranged Deletions\n\nDifficulty: 800\nTags: greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2127_C",
+    "source": "codeforces",
+    "contest_id": 2127,
+    "index": "C",
+    "name": "Trip Shopping",
+    "difficulty": 1400,
+    "solved_count": 8963,
+    "tags": [
+      "games",
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2127/C",
+    "prompt": "Problem: Trip Shopping\n\nDifficulty: 1400\nTags: games, greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_1202Contest_b",
+    "source": "atcoder",
+    "name": "B. vs. DEGwer",
+    "contest_id": "DEGwer2023",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_b",
+    "prompt": "Problem: B. vs. DEGwer\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_1202Contest_i",
+    "source": "atcoder",
+    "name": "I. Convex Dombination",
+    "contest_id": "DEGwer2023",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_i",
+    "prompt": "Problem: I. Convex Dombination\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cj",
+    "source": "atcoder",
+    "name": "EX13. 三人兄弟へのプレゼント",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cj",
+    "prompt": "Problem: EX13. 三人兄弟へのプレゼント\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_1202Contest_k",
+    "source": "atcoder",
+    "name": "K. ± Beam",
+    "contest_id": "DEGwer2023",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_k",
+    "prompt": "Problem: K. ± Beam\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_1202Contest_d",
+    "source": "atcoder",
+    "name": "D. Coincidence",
+    "contest_id": "DEGwer2023",
+    "difficulty": "hard",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_d",
+    "prompt": "Problem: D. Coincidence\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_1202Contest_c",
+    "source": "atcoder",
+    "name": "C. binarydigit",
+    "contest_id": "DEGwer2023",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_c",
+    "prompt": "Problem: C. binarydigit\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cr",
+    "source": "atcoder",
+    "name": "EX5. A足すB問題",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cr",
+    "prompt": "Problem: EX5. A足すB問題\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cs",
+    "source": "atcoder",
+    "name": "EX4. ◯年は何秒？",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cs",
+    "prompt": "Problem: EX4. ◯年は何秒？\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cp",
+    "source": "atcoder",
+    "name": "EX7. bool値パズル",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cp",
+    "prompt": "Problem: EX7. bool値パズル\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cl",
+    "source": "atcoder",
+    "name": "EX11. 足したり引いたり",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cl",
+    "prompt": "Problem: EX11. 足したり引いたり\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  }
+]

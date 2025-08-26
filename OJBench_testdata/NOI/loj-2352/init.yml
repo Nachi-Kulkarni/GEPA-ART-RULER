@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: network10.in
+  out: network10.ans
+  points: 10
+- in: network2.in
+  out: network2.ans
+  points: 10
+- in: network4.in
+  out: network4.ans
+  points: 10
+- in: network1.in
+  out: network1.ans
+  points: 10
+- in: network8.in
+  out: network8.ans
+  points: 10
+- in: network9.in
+  out: network9.ans
+  points: 10
+- in: network3.in
+  out: network3.ans
+  points: 10
+- in: network7.in
+  out: network7.ans
+  points: 10
+- in: network6.in
+  out: network6.ans
+  points: 10
+- in: network5.in
+  out: network5.ans
+  points: 10

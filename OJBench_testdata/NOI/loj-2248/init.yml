@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: random2.in
+  out: random2.out
+  points: 10
+- in: random10.in
+  out: random10.out
+  points: 10
+- in: random6.in
+  out: random6.out
+  points: 10
+- in: random9.in
+  out: random9.out
+  points: 10
+- in: random8.in
+  out: random8.out
+  points: 10
+- in: random3.in
+  out: random3.out
+  points: 10
+- in: random4.in
+  out: random4.out
+  points: 10
+- in: random7.in
+  out: random7.out
+  points: 10
+- in: random5.in
+  out: random5.out
+  points: 10
+- in: random1.in
+  out: random1.out
+  points: 10

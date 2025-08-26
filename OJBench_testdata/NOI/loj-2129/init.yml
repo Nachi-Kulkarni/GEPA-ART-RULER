@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: prog7.in
+  out: prog7.out
+  points: 10
+- in: prog9.in
+  out: prog9.out
+  points: 10
+- in: prog2.in
+  out: prog2.out
+  points: 10
+- in: prog4.in
+  out: prog4.out
+  points: 10
+- in: prog6.in
+  out: prog6.out
+  points: 10
+- in: prog8.in
+  out: prog8.out
+  points: 10
+- in: prog1.in
+  out: prog1.out
+  points: 10
+- in: prog3.in
+  out: prog3.out
+  points: 10
+- in: prog5.in
+  out: prog5.out
+  points: 10
+- in: prog10.in
+  out: prog10.out
+  points: 10

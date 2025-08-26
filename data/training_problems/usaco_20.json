@@ -1,0 +1,202 @@
+[
+  {
+    "id": "usaco_000",
+    "source": "usaco",
+    "name": "Cow Migration 1",
+    "difficulty": "easy",
+    "problem_type": "simulation",
+    "prompt": "Problem: Cow Migration 1\n\nType: simulation\nDifficulty: easy\n\nTrack cow movements in a field. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_001",
+    "source": "usaco",
+    "name": "Fence Planning 2",
+    "difficulty": "medium",
+    "problem_type": "graph",
+    "prompt": "Problem: Fence Planning 2\n\nType: graph\nDifficulty: medium\n\nFind optimal fence layout. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_002",
+    "source": "usaco",
+    "name": "Milk Scheduling 3",
+    "difficulty": "hard",
+    "problem_type": "dynamic_programming",
+    "prompt": "Problem: Milk Scheduling 3\n\nType: dynamic_programming\nDifficulty: hard\n\nOptimize milk production schedule. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_003",
+    "source": "usaco",
+    "name": "Cow Migration 4",
+    "difficulty": "easy",
+    "problem_type": "simulation",
+    "prompt": "Problem: Cow Migration 4\n\nType: simulation\nDifficulty: easy\n\nTrack cow movements in a field. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_004",
+    "source": "usaco",
+    "name": "Fence Planning 5",
+    "difficulty": "medium",
+    "problem_type": "graph",
+    "prompt": "Problem: Fence Planning 5\n\nType: graph\nDifficulty: medium\n\nFind optimal fence layout. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_005",
+    "source": "usaco",
+    "name": "Milk Scheduling 6",
+    "difficulty": "hard",
+    "problem_type": "dynamic_programming",
+    "prompt": "Problem: Milk Scheduling 6\n\nType: dynamic_programming\nDifficulty: hard\n\nOptimize milk production schedule. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_006",
+    "source": "usaco",
+    "name": "Cow Migration 7",
+    "difficulty": "easy",
+    "problem_type": "simulation",
+    "prompt": "Problem: Cow Migration 7\n\nType: simulation\nDifficulty: easy\n\nTrack cow movements in a field. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_007",
+    "source": "usaco",
+    "name": "Fence Planning 8",
+    "difficulty": "medium",
+    "problem_type": "graph",
+    "prompt": "Problem: Fence Planning 8\n\nType: graph\nDifficulty: medium\n\nFind optimal fence layout. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_008",
+    "source": "usaco",
+    "name": "Milk Scheduling 9",
+    "difficulty": "hard",
+    "problem_type": "dynamic_programming",
+    "prompt": "Problem: Milk Scheduling 9\n\nType: dynamic_programming\nDifficulty: hard\n\nOptimize milk production schedule. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_009",
+    "source": "usaco",
+    "name": "Cow Migration 10",
+    "difficulty": "easy",
+    "problem_type": "simulation",
+    "prompt": "Problem: Cow Migration 10\n\nType: simulation\nDifficulty: easy\n\nTrack cow movements in a field. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_010",
+    "source": "usaco",
+    "name": "Fence Planning 11",
+    "difficulty": "medium",
+    "problem_type": "graph",
+    "prompt": "Problem: Fence Planning 11\n\nType: graph\nDifficulty: medium\n\nFind optimal fence layout. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_011",
+    "source": "usaco",
+    "name": "Milk Scheduling 12",
+    "difficulty": "hard",
+    "problem_type": "dynamic_programming",
+    "prompt": "Problem: Milk Scheduling 12\n\nType: dynamic_programming\nDifficulty: hard\n\nOptimize milk production schedule. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_012",
+    "source": "usaco",
+    "name": "Cow Migration 13",
+    "difficulty": "easy",
+    "problem_type": "simulation",
+    "prompt": "Problem: Cow Migration 13\n\nType: simulation\nDifficulty: easy\n\nTrack cow movements in a field. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_013",
+    "source": "usaco",
+    "name": "Fence Planning 14",
+    "difficulty": "medium",
+    "problem_type": "graph",
+    "prompt": "Problem: Fence Planning 14\n\nType: graph\nDifficulty: medium\n\nFind optimal fence layout. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_014",
+    "source": "usaco",
+    "name": "Milk Scheduling 15",
+    "difficulty": "hard",
+    "problem_type": "dynamic_programming",
+    "prompt": "Problem: Milk Scheduling 15\n\nType: dynamic_programming\nDifficulty: hard\n\nOptimize milk production schedule. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_015",
+    "source": "usaco",
+    "name": "Cow Migration 16",
+    "difficulty": "easy",
+    "problem_type": "simulation",
+    "prompt": "Problem: Cow Migration 16\n\nType: simulation\nDifficulty: easy\n\nTrack cow movements in a field. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_016",
+    "source": "usaco",
+    "name": "Fence Planning 17",
+    "difficulty": "medium",
+    "problem_type": "graph",
+    "prompt": "Problem: Fence Planning 17\n\nType: graph\nDifficulty: medium\n\nFind optimal fence layout. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_017",
+    "source": "usaco",
+    "name": "Milk Scheduling 18",
+    "difficulty": "hard",
+    "problem_type": "dynamic_programming",
+    "prompt": "Problem: Milk Scheduling 18\n\nType: dynamic_programming\nDifficulty: hard\n\nOptimize milk production schedule. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_018",
+    "source": "usaco",
+    "name": "Cow Migration 19",
+    "difficulty": "easy",
+    "problem_type": "simulation",
+    "prompt": "Problem: Cow Migration 19\n\nType: simulation\nDifficulty: easy\n\nTrack cow movements in a field. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_019",
+    "source": "usaco",
+    "name": "Fence Planning 20",
+    "difficulty": "medium",
+    "problem_type": "graph",
+    "prompt": "Problem: Fence Planning 20\n\nType: graph\nDifficulty: medium\n\nFind optimal fence layout. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  }
+]

@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: son9.in
+  out: son9.out
+  points: 10
+- in: son10.in
+  out: son10.out
+  points: 10
+- in: son7.in
+  out: son7.out
+  points: 10
+- in: son5.in
+  out: son5.out
+  points: 10
+- in: son3.in
+  out: son3.out
+  points: 10
+- in: son1.in
+  out: son1.out
+  points: 10
+- in: son8.in
+  out: son8.out
+  points: 10
+- in: son6.in
+  out: son6.out
+  points: 10
+- in: son4.in
+  out: son4.out
+  points: 10
+- in: son2.in
+  out: son2.out
+  points: 10

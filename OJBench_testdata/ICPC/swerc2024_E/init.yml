@@ -1,0 +1,56 @@
+archive: data.zip
+checker:
+  args:
+    files:
+    - output_validators/pointoutpolygon_validator/validate.cpp
+    - output_validators/pointoutpolygon_validator/validate.h
+    lang: CPP17
+    type: default
+  name: bridged
+output_limit_length: 104857600
+test_cases:
+- in: frame01.in
+  out: frame01.ans
+  points: 1
+- in: frame02.in
+  out: frame02.ans
+  points: 1
+- in: frame03.in
+  out: frame03.ans
+  points: 1
+- in: frame04.in
+  out: frame04.ans
+  points: 1
+- in: line01.in
+  out: line01.ans
+  points: 1
+- in: line02.in
+  out: line02.ans
+  points: 1
+- in: line03.in
+  out: line03.ans
+  points: 1
+- in: line04.in
+  out: line04.ans
+  points: 1
+- in: line05.in
+  out: line05.ans
+  points: 1
+- in: line06.in
+  out: line06.ans
+  points: 1
+- in: line07.in
+  out: line07.ans
+  points: 1
+- in: line08.in
+  out: line08.ans
+  points: 1
+- in: random01.in
+  out: random01.ans
+  points: 1
+- in: random02.in
+  out: random02.ans
+  points: 1
+- in: random03.in
+  out: random03.ans
+  points: 1

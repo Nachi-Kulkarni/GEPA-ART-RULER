@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: surround9.in
+  out: surround9.ans
+  points: 10
+- in: surround3.in
+  out: surround3.ans
+  points: 10
+- in: surround2.in
+  out: surround2.ans
+  points: 10
+- in: surround1.in
+  out: surround1.ans
+  points: 10
+- in: surround5.in
+  out: surround5.ans
+  points: 10
+- in: surround4.in
+  out: surround4.ans
+  points: 10
+- in: surround7.in
+  out: surround7.ans
+  points: 10
+- in: surround8.in
+  out: surround8.ans
+  points: 10
+- in: surround10.in
+  out: surround10.ans
+  points: 10
+- in: surround6.in
+  out: surround6.ans
+  points: 10

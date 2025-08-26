@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: rps5.in
+  out: rps5.ans
+  points: 10
+- in: rps10.in
+  out: rps10.ans
+  points: 10
+- in: rps3.in
+  out: rps3.ans
+  points: 10
+- in: rps1.in
+  out: rps1.ans
+  points: 10
+- in: rps8.in
+  out: rps8.ans
+  points: 10
+- in: rps6.in
+  out: rps6.ans
+  points: 10
+- in: rps4.in
+  out: rps4.ans
+  points: 10
+- in: rps2.in
+  out: rps2.ans
+  points: 10
+- in: rps9.in
+  out: rps9.ans
+  points: 10
+- in: rps7.in
+  out: rps7.ans
+  points: 10

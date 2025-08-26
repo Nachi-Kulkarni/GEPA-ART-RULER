@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: substring7.in
+  out: substring7.ans
+  points: 10
+- in: substring1.in
+  out: substring1.ans
+  points: 10
+- in: substring6.in
+  out: substring6.ans
+  points: 10
+- in: substring2.in
+  out: substring2.ans
+  points: 10
+- in: substring4.in
+  out: substring4.ans
+  points: 10
+- in: substring10.in
+  out: substring10.ans
+  points: 10
+- in: substring5.in
+  out: substring5.ans
+  points: 10
+- in: substring8.in
+  out: substring8.ans
+  points: 10
+- in: substring9.in
+  out: substring9.ans
+  points: 10
+- in: substring3.in
+  out: substring3.ans
+  points: 10

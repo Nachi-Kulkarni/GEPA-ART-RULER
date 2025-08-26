@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: link6.in
+  out: link6.ans
+  points: 10
+- in: link1.in
+  out: link1.ans
+  points: 10
+- in: link2.in
+  out: link2.ans
+  points: 10
+- in: link9.in
+  out: link9.ans
+  points: 10
+- in: link4.in
+  out: link4.ans
+  points: 10
+- in: link5.in
+  out: link5.ans
+  points: 10
+- in: link10.in
+  out: link10.ans
+  points: 10
+- in: link7.in
+  out: link7.ans
+  points: 10
+- in: link8.in
+  out: link8.ans
+  points: 10
+- in: link3.in
+  out: link3.ans
+  points: 10

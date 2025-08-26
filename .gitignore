@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv-310/
+venv-gpu/
+env/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+data/cache/
+logs/*.log
+*.log
+.env
+.env.local
+
+# Large files
+*.tar.gz
+*.zip
+gepa_art_ruler_deploy.tar.gz
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Claude Code
+.claude-flow/
+.claude/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test outputs
+results/
+output/

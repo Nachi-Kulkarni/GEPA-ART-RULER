@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: necklace3.in
+  out: necklace3.ans
+  points: 10
+- in: necklace5.in
+  out: necklace5.ans
+  points: 10
+- in: necklace8.in
+  out: necklace8.ans
+  points: 10
+- in: necklace7.in
+  out: necklace7.ans
+  points: 10
+- in: necklace2.in
+  out: necklace2.ans
+  points: 10
+- in: necklace6.in
+  out: necklace6.ans
+  points: 10
+- in: necklace9.in
+  out: necklace9.ans
+  points: 10
+- in: necklace4.in
+  out: necklace4.ans
+  points: 10
+- in: necklace1.in
+  out: necklace1.ans
+  points: 10
+- in: necklace10.in
+  out: necklace10.ans
+  points: 10

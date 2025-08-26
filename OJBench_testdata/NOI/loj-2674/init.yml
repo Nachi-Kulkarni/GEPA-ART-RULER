@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: delicacy3.in
+  out: delicacy3.out
+  points: 10
+- in: delicacy9.in
+  out: delicacy9.out
+  points: 10
+- in: delicacy2.in
+  out: delicacy2.out
+  points: 10
+- in: delicacy8.in
+  out: delicacy8.out
+  points: 10
+- in: delicacy5.in
+  out: delicacy5.out
+  points: 10
+- in: delicacy1.in
+  out: delicacy1.out
+  points: 10
+- in: delicacy7.in
+  out: delicacy7.out
+  points: 10
+- in: delicacy10.in
+  out: delicacy10.out
+  points: 10
+- in: delicacy4.in
+  out: delicacy4.out
+  points: 10
+- in: delicacy6.in
+  out: delicacy6.out
+  points: 10

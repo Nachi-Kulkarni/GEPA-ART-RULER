@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: block5.in
+  out: block5.ans
+  points: 10
+- in: block9.in
+  out: block9.ans
+  points: 10
+- in: block4.in
+  out: block4.ans
+  points: 10
+- in: block3.in
+  out: block3.ans
+  points: 10
+- in: block7.in
+  out: block7.ans
+  points: 10
+- in: block6.in
+  out: block6.ans
+  points: 10
+- in: block1.in
+  out: block1.ans
+  points: 10
+- in: block10.in
+  out: block10.ans
+  points: 10
+- in: block2.in
+  out: block2.ans
+  points: 10
+- in: block8.in
+  out: block8.ans
+  points: 10

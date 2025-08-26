@@ -1,0 +1,77 @@
+archive: data.zip
+checker:
+  args:
+    files:
+    - output_validators/validator/validate.h
+    - output_validators/validator/validator.cpp
+    lang: CPP17
+    type: default
+  name: bridged
+output_limit_length: 104857600
+test_cases:
+- in: cornercase01.in
+  out: cornercase01.ans
+  points: 1
+- in: cornercase02.in
+  out: cornercase02.ans
+  points: 1
+- in: cornercase03.in
+  out: cornercase03.ans
+  points: 1
+- in: cornercase04.in
+  out: cornercase04.ans
+  points: 1
+- in: cornercase05.in
+  out: cornercase05.ans
+  points: 1
+- in: large_5000_20_01.in
+  out: large_5000_20_01.ans
+  points: 1
+- in: large_5000_20_02.in
+  out: large_5000_20_02.ans
+  points: 1
+- in: largeimbalanced04.in
+  out: largeimbalanced04.ans
+  points: 1
+- in: largeimbalanced06.in
+  out: largeimbalanced06.ans
+  points: 1
+- in: largeimbalanced07.in
+  out: largeimbalanced07.ans
+  points: 1
+- in: largeimbalanced_5000_20_01.in
+  out: largeimbalanced_5000_20_01.ans
+  points: 1
+- in: largeimbalanced_5000_20_02.in
+  out: largeimbalanced_5000_20_02.ans
+  points: 1
+- in: largeimbalanced_middle_5000_20_01.in
+  out: largeimbalanced_middle_5000_20_01.ans
+  points: 1
+- in: largeimbalanced_middle_5000_20_02.in
+  out: largeimbalanced_middle_5000_20_02.ans
+  points: 1
+- in: medium01.in
+  out: medium01.ans
+  points: 1
+- in: medium02.in
+  out: medium02.ans
+  points: 1
+- in: medium03.in
+  out: medium03.ans
+  points: 1
+- in: medium04.in
+  out: medium04.ans
+  points: 1
+- in: medium05.in
+  out: medium05.ans
+  points: 1
+- in: medium06.in
+  out: medium06.ans
+  points: 1
+- in: small01.in
+  out: small01.ans
+  points: 1
+- in: small02.in
+  out: small02.ans
+  points: 1

@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+g++ -g -O2 -std=gnu++20 -Wall -Wfatal-errors validate_using_insights.cpp -o validate_using_insights
+g++ -g -O2 -std=gnu++20 -Wall -Wfatal-errors validate_using_modulo.cpp -o validate_using_modulo

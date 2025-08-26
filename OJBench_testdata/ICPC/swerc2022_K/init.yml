@@ -1,0 +1,46 @@
+archive: data.zip
+checker:
+  args:
+    files:
+    - output_validators/testlib.h
+    - output_validators/checker.cpp
+    lang: CPP17
+    type: default
+  name: bridged
+test_cases:
+- in: 10.in
+  out: 10.ans
+  points: 1
+- in: 11.in
+  out: 11.ans
+  points: 1
+- in: 12.in
+  out: 12.ans
+  points: 1
+- in: 13.in
+  out: 13.ans
+  points: 1
+- in: 2.in
+  out: 2.ans
+  points: 1
+- in: 3.in
+  out: 3.ans
+  points: 1
+- in: 4.in
+  out: 4.ans
+  points: 1
+- in: 5.in
+  out: 5.ans
+  points: 1
+- in: 6.in
+  out: 6.ans
+  points: 1
+- in: 7.in
+  out: 7.ans
+  points: 1
+- in: 8.in
+  out: 8.ans
+  points: 1
+- in: 9.in
+  out: 9.ans
+  points: 1

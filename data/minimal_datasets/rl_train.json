@@ -1,0 +1,1176 @@
+[
+  {
+    "id": "atc_1202Contest_b",
+    "source": "atcoder",
+    "name": "B. vs. DEGwer",
+    "contest_id": "DEGwer2023",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_b",
+    "prompt": "Problem: B. vs. DEGwer\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2127_B",
+    "source": "codeforces",
+    "contest_id": 2127,
+    "index": "B",
+    "name": "Hamiiid, Haaamid... Hamid?",
+    "difficulty": 1300,
+    "solved_count": 11205,
+    "tags": [
+      "games",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2127/B",
+    "prompt": "Problem: Hamiiid, Haaamid... Hamid?\n\nDifficulty: 1300\nTags: games, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2130_A",
+    "source": "codeforces",
+    "contest_id": 2130,
+    "index": "A",
+    "name": "Submission is All You Need",
+    "difficulty": 800,
+    "solved_count": 24193,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2130/A",
+    "prompt": "Problem: Submission is All You Need\n\nDifficulty: 800\nTags: greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2116_A",
+    "source": "codeforces",
+    "contest_id": 2116,
+    "index": "A",
+    "name": "Gellyfish and Tricolor Pansy",
+    "difficulty": 800,
+    "solved_count": 24587,
+    "tags": [
+      "games",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2116/A",
+    "prompt": "Problem: Gellyfish and Tricolor Pansy\n\nDifficulty: 800\nTags: games, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_014",
+    "source": "usaco",
+    "name": "Milk Scheduling 15",
+    "difficulty": "hard",
+    "problem_type": "dynamic_programming",
+    "prompt": "Problem: Milk Scheduling 15\n\nType: dynamic_programming\nDifficulty: hard\n\nOptimize milk production schedule. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2126_A",
+    "source": "codeforces",
+    "contest_id": 2126,
+    "index": "A",
+    "name": "Only One Digit",
+    "difficulty": 800,
+    "solved_count": 41914,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2126/A",
+    "prompt": "Problem: Only One Digit\n\nDifficulty: 800\nTags: brute force, implementation, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2114_A",
+    "source": "codeforces",
+    "contest_id": 2114,
+    "index": "A",
+    "name": "Square Year",
+    "difficulty": 800,
+    "solved_count": 37238,
+    "tags": [
+      "binary search",
+      "brute force",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/A",
+    "prompt": "Problem: Square Year\n\nDifficulty: 800\nTags: binary search, brute force, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_1202Contest_i",
+    "source": "atcoder",
+    "name": "I. Convex Dombination",
+    "contest_id": "DEGwer2023",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_i",
+    "prompt": "Problem: I. Convex Dombination\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cj",
+    "source": "atcoder",
+    "name": "EX13. 三人兄弟へのプレゼント",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cj",
+    "prompt": "Problem: EX13. 三人兄弟へのプレゼント\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2123_B",
+    "source": "codeforces",
+    "contest_id": 2123,
+    "index": "B",
+    "name": "Tournament",
+    "difficulty": 800,
+    "solved_count": 31010,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2123/B",
+    "prompt": "Problem: Tournament\n\nDifficulty: 800\nTags: greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_009",
+    "source": "usaco",
+    "name": "Cow Migration 10",
+    "difficulty": "easy",
+    "problem_type": "simulation",
+    "prompt": "Problem: Cow Migration 10\n\nType: simulation\nDifficulty: easy\n\nTrack cow movements in a field. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_1202Contest_k",
+    "source": "atcoder",
+    "name": "K. ± Beam",
+    "contest_id": "DEGwer2023",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_k",
+    "prompt": "Problem: K. ± Beam\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2121_E",
+    "source": "codeforces",
+    "contest_id": 2121,
+    "index": "E",
+    "name": "Sponsor of Your Problems",
+    "difficulty": 1500,
+    "solved_count": 11847,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/E",
+    "prompt": "Problem: Sponsor of Your Problems\n\nDifficulty: 1500\nTags: dp, greedy, implementation, strings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2121_C",
+    "source": "codeforces",
+    "contest_id": 2121,
+    "index": "C",
+    "name": "Those Who Are With Us",
+    "difficulty": 1200,
+    "solved_count": 18535,
+    "tags": [
+      "greedy",
+      "greedy",
+      "implementation"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/C",
+    "prompt": "Problem: Those Who Are With Us\n\nDifficulty: 1200\nTags: greedy, greedy, implementation\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_1202Contest_d",
+    "source": "atcoder",
+    "name": "D. Coincidence",
+    "contest_id": "DEGwer2023",
+    "difficulty": "hard",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_d",
+    "prompt": "Problem: D. Coincidence\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2113_A",
+    "source": "codeforces",
+    "contest_id": 2113,
+    "index": "A",
+    "name": "Shashliks",
+    "difficulty": 800,
+    "solved_count": 18104,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2113/A",
+    "prompt": "Problem: Shashliks\n\nDifficulty: 800\nTags: greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_1202Contest_c",
+    "source": "atcoder",
+    "name": "C. binarydigit",
+    "contest_id": "DEGwer2023",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_c",
+    "prompt": "Problem: C. binarydigit\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cr",
+    "source": "atcoder",
+    "name": "EX5. A足すB問題",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cr",
+    "prompt": "Problem: EX5. A足すB問題\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2114_B",
+    "source": "codeforces",
+    "contest_id": 2114,
+    "index": "B",
+    "name": "Not Quite a Palindromic String",
+    "difficulty": 900,
+    "solved_count": 26924,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/B",
+    "prompt": "Problem: Not Quite a Palindromic String\n\nDifficulty: 900\nTags: greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2114_E",
+    "source": "codeforces",
+    "contest_id": 2114,
+    "index": "E",
+    "name": "Kirei Attacks the Estate",
+    "difficulty": 1400,
+    "solved_count": 11485,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/E",
+    "prompt": "Problem: Kirei Attacks the Estate\n\nDifficulty: 1400\nTags: dfs and similar, dp, greedy, trees\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2116_B",
+    "source": "codeforces",
+    "contest_id": 2116,
+    "index": "B",
+    "name": "Gellyfish and Baby's Breath",
+    "difficulty": 1300,
+    "solved_count": 15165,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2116/B",
+    "prompt": "Problem: Gellyfish and Baby's Breath\n\nDifficulty: 1300\nTags: greedy, math, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2117_B",
+    "source": "codeforces",
+    "contest_id": 2117,
+    "index": "B",
+    "name": "Shrink",
+    "difficulty": 800,
+    "solved_count": 29021,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/B",
+    "prompt": "Problem: Shrink\n\nDifficulty: 800\nTags: constructive algorithms\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cs",
+    "source": "atcoder",
+    "name": "EX4. ◯年は何秒？",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cs",
+    "prompt": "Problem: EX4. ◯年は何秒？\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cp",
+    "source": "atcoder",
+    "name": "EX7. bool値パズル",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cp",
+    "prompt": "Problem: EX7. bool値パズル\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cl",
+    "source": "atcoder",
+    "name": "EX11. 足したり引いたり",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cl",
+    "prompt": "Problem: EX11. 足したり引いたり\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cn",
+    "source": "atcoder",
+    "name": "EX9. 電卓をつくろう2",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cn",
+    "prompt": "Problem: EX9. 電卓をつくろう2\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2124_A",
+    "source": "codeforces",
+    "contest_id": 2124,
+    "index": "A",
+    "name": "Deranged Deletions",
+    "difficulty": 800,
+    "solved_count": 17512,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2124/A",
+    "prompt": "Problem: Deranged Deletions\n\nDifficulty: 800\nTags: greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2127_C",
+    "source": "codeforces",
+    "contest_id": 2127,
+    "index": "C",
+    "name": "Trip Shopping",
+    "difficulty": 1400,
+    "solved_count": 8963,
+    "tags": [
+      "games",
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2127/C",
+    "prompt": "Problem: Trip Shopping\n\nDifficulty: 1400\nTags: games, greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2124_B",
+    "source": "codeforces",
+    "contest_id": 2124,
+    "index": "B",
+    "name": "Minimise Sum",
+    "difficulty": 1000,
+    "solved_count": 16620,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2124/B",
+    "prompt": "Problem: Minimise Sum\n\nDifficulty: 1000\nTags: greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2120_A",
+    "source": "codeforces",
+    "contest_id": 2120,
+    "index": "A",
+    "name": "Square of Rectangles",
+    "difficulty": 800,
+    "solved_count": 18338,
+    "tags": [
+      "geometry",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2120/A",
+    "prompt": "Problem: Square of Rectangles\n\nDifficulty: 800\nTags: geometry, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_1202Contest_h",
+    "source": "atcoder",
+    "name": "H. Incomplete Notes",
+    "contest_id": "DEGwer2023",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_h",
+    "prompt": "Problem: H. Incomplete Notes\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2121_B",
+    "source": "codeforces",
+    "contest_id": 2121,
+    "index": "B",
+    "name": "Above the Clouds",
+    "difficulty": 800,
+    "solved_count": 29393,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/B",
+    "prompt": "Problem: Above the Clouds\n\nDifficulty: 800\nTags: constructive algorithms, greedy, strings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2127_A",
+    "source": "codeforces",
+    "contest_id": 2127,
+    "index": "A",
+    "name": "Mix Mex Max",
+    "difficulty": 800,
+    "solved_count": 16872,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2127/A",
+    "prompt": "Problem: Mix Mex Max\n\nDifficulty: 800\nTags: constructive algorithms, greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_1202Contest_g",
+    "source": "atcoder",
+    "name": "G. Net of Net",
+    "contest_id": "DEGwer2023",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_g",
+    "prompt": "Problem: G. Net of Net\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cm",
+    "source": "atcoder",
+    "name": "EX10. 平均との差",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cm",
+    "prompt": "Problem: EX10. 平均との差\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_012",
+    "source": "usaco",
+    "name": "Cow Migration 13",
+    "difficulty": "easy",
+    "problem_type": "simulation",
+    "prompt": "Problem: Cow Migration 13\n\nType: simulation\nDifficulty: easy\n\nTrack cow movements in a field. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_b",
+    "source": "atcoder",
+    "name": "B. 1.01.出力とコメント",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_b",
+    "prompt": "Problem: B. 1.01.出力とコメント\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2128_B",
+    "source": "codeforces",
+    "contest_id": 2128,
+    "index": "B",
+    "name": "Deque Process",
+    "difficulty": 1100,
+    "solved_count": 17212,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2128/B",
+    "prompt": "Problem: Deque Process\n\nDifficulty: 1100\nTags: constructive algorithms, greedy, sortings, two pointers\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2118_C",
+    "source": "codeforces",
+    "contest_id": 2118,
+    "index": "C",
+    "name": "Make It Beautiful",
+    "difficulty": 1300,
+    "solved_count": 15981,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2118/C",
+    "prompt": "Problem: Make It Beautiful\n\nDifficulty: 1300\nTags: bitmasks, data structures, greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_019",
+    "source": "usaco",
+    "name": "Fence Planning 20",
+    "difficulty": "medium",
+    "problem_type": "graph",
+    "prompt": "Problem: Fence Planning 20\n\nType: graph\nDifficulty: medium\n\nFind optimal fence layout. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_1202Contest_a",
+    "source": "atcoder",
+    "name": "A. DEGwer's Doctoral Dissertation",
+    "contest_id": "DEGwer2023",
+    "difficulty": "easy",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_a",
+    "prompt": "Problem: A. DEGwer's Doctoral Dissertation\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_018",
+    "source": "usaco",
+    "name": "Cow Migration 19",
+    "difficulty": "easy",
+    "problem_type": "simulation",
+    "prompt": "Problem: Cow Migration 19\n\nType: simulation\nDifficulty: easy\n\nTrack cow movements in a field. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2118_B",
+    "source": "codeforces",
+    "contest_id": 2118,
+    "index": "B",
+    "name": "Make It Permutation",
+    "difficulty": 1200,
+    "solved_count": 17644,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2118/B",
+    "prompt": "Problem: Make It Permutation\n\nDifficulty: 1200\nTags: constructive algorithms\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2112_C",
+    "source": "codeforces",
+    "contest_id": 2112,
+    "index": "C",
+    "name": "Coloring Game",
+    "difficulty": 1300,
+    "solved_count": 15065,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2112/C",
+    "prompt": "Problem: Coloring Game\n\nDifficulty: 1300\nTags: binary search, brute force, greedy, two pointers\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_003",
+    "source": "usaco",
+    "name": "Cow Migration 4",
+    "difficulty": "easy",
+    "problem_type": "simulation",
+    "prompt": "Problem: Cow Migration 4\n\nType: simulation\nDifficulty: easy\n\nTrack cow movements in a field. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cv",
+    "source": "atcoder",
+    "name": "EX1. コードテストと出力の練習",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cv",
+    "prompt": "Problem: EX1. コードテストと出力の練習\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_1202Contest_f",
+    "source": "atcoder",
+    "name": "F. K-Medians Clustering",
+    "contest_id": "DEGwer2023",
+    "difficulty": "hard",
+    "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_f",
+    "prompt": "Problem: F. K-Medians Clustering\n\nContest: DEGwer2023\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2120_B",
+    "source": "codeforces",
+    "contest_id": 2120,
+    "index": "B",
+    "name": "Square Pool",
+    "difficulty": 1000,
+    "solved_count": 15578,
+    "tags": [
+      "geometry"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2120/B",
+    "prompt": "Problem: Square Pool\n\nDifficulty: 1000\nTags: geometry\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2123_E",
+    "source": "codeforces",
+    "contest_id": 2123,
+    "index": "E",
+    "name": "MEX Count",
+    "difficulty": 1400,
+    "solved_count": 12308,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2123/E",
+    "prompt": "Problem: MEX Count\n\nDifficulty: 1400\nTags: binary search, data structures, greedy, sortings, two pointers\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2119_B",
+    "source": "codeforces",
+    "contest_id": 2119,
+    "index": "B",
+    "name": "Line Segments",
+    "difficulty": 1200,
+    "solved_count": 15391,
+    "tags": [
+      "geometry",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2119/B",
+    "prompt": "Problem: Line Segments\n\nDifficulty: 1200\nTags: geometry, greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2119_A",
+    "source": "codeforces",
+    "contest_id": 2119,
+    "index": "A",
+    "name": "Add or XOR",
+    "difficulty": 800,
+    "solved_count": 23342,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2119/A",
+    "prompt": "Problem: Add or XOR\n\nDifficulty: 800\nTags: bitmasks, greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2125_B",
+    "source": "codeforces",
+    "contest_id": 2125,
+    "index": "B",
+    "name": "Left and Down",
+    "difficulty": 900,
+    "solved_count": 22292,
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2125/B",
+    "prompt": "Problem: Left and Down\n\nDifficulty: 900\nTags: math, number theory\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_ak",
+    "source": "atcoder",
+    "name": "AP1. 付録1.コードテストの使い方",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_ak",
+    "prompt": "Problem: AP1. 付録1.コードテストの使い方\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2128_C",
+    "source": "codeforces",
+    "contest_id": 2128,
+    "index": "C",
+    "name": "Leftmost Below",
+    "difficulty": 1200,
+    "solved_count": 15510,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2128/C",
+    "prompt": "Problem: Leftmost Below\n\nDifficulty: 1200\nTags: greedy, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2123_D",
+    "source": "codeforces",
+    "contest_id": 2123,
+    "index": "D",
+    "name": "Binary String Battle",
+    "difficulty": 1200,
+    "solved_count": 18691,
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2123/D",
+    "prompt": "Problem: Binary String Battle\n\nDifficulty: 1200\nTags: constructive algorithms, games, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2128_A",
+    "source": "codeforces",
+    "contest_id": 2128,
+    "index": "A",
+    "name": "Recycling Center",
+    "difficulty": 800,
+    "solved_count": 23586,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2128/A",
+    "prompt": "Problem: Recycling Center\n\nDifficulty: 800\nTags: greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2121_A",
+    "source": "codeforces",
+    "contest_id": 2121,
+    "index": "A",
+    "name": "Letter Home",
+    "difficulty": 800,
+    "solved_count": 34840,
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/A",
+    "prompt": "Problem: Letter Home\n\nDifficulty: 800\nTags: brute force, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_d",
+    "source": "atcoder",
+    "name": "D. 1.03.四則演算と優先順位",
+    "contest_id": "APG4bPython",
+    "difficulty": "hard",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_d",
+    "prompt": "Problem: D. 1.03.四則演算と優先順位\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2117_C",
+    "source": "codeforces",
+    "contest_id": 2117,
+    "index": "C",
+    "name": "Cool Partition",
+    "difficulty": 1200,
+    "solved_count": 18129,
+    "tags": [
+      "data structures",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/C",
+    "prompt": "Problem: Cool Partition\n\nDifficulty: 1200\nTags: data structures, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2129_B",
+    "source": "codeforces",
+    "contest_id": 2129,
+    "index": "B",
+    "name": "Stay or Mirror",
+    "difficulty": 1600,
+    "solved_count": 9290,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2129/B",
+    "prompt": "Problem: Stay or Mirror\n\nDifficulty: 1600\nTags: brute force, data structures, dp, greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2115_A",
+    "source": "codeforces",
+    "contest_id": 2115,
+    "index": "A",
+    "name": "Gellyfish and Flaming Peony",
+    "difficulty": 1500,
+    "solved_count": 12004,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2115/A",
+    "prompt": "Problem: Gellyfish and Flaming Peony\n\nDifficulty: 1500\nTags: constructive algorithms, dp, math, number theory\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2125_D",
+    "source": "codeforces",
+    "contest_id": 2125,
+    "index": "D",
+    "name": "Segments Covering",
+    "difficulty": 1600,
+    "solved_count": 7452,
+    "tags": [
+      "dp",
+      "math",
+      "probabilities"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2125/D",
+    "prompt": "Problem: Segments Covering\n\nDifficulty: 1600\nTags: dp, math, probabilities\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2119_C",
+    "source": "codeforces",
+    "contest_id": 2119,
+    "index": "C",
+    "name": "A Good Problem",
+    "difficulty": 1300,
+    "solved_count": 13316,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2119/C",
+    "prompt": "Problem: A Good Problem\n\nDifficulty: 1300\nTags: bitmasks, constructive algorithms, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2117_E",
+    "source": "codeforces",
+    "contest_id": 2117,
+    "index": "E",
+    "name": "Lost Soul",
+    "difficulty": 1600,
+    "solved_count": 10036,
+    "tags": [
+      "brute force",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/E",
+    "prompt": "Problem: Lost Soul\n\nDifficulty: 1600\nTags: brute force, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2117_D",
+    "source": "codeforces",
+    "contest_id": 2117,
+    "index": "D",
+    "name": "Retaliation",
+    "difficulty": 1200,
+    "solved_count": 18859,
+    "tags": [
+      "binary search",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/D",
+    "prompt": "Problem: Retaliation\n\nDifficulty: 1200\nTags: binary search, math, number theory\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2126_D",
+    "source": "codeforces",
+    "contest_id": 2126,
+    "index": "D",
+    "name": "This Is the Last Time",
+    "difficulty": 1200,
+    "solved_count": 19712,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2126/D",
+    "prompt": "Problem: This Is the Last Time\n\nDifficulty: 1200\nTags: data structures, greedy, sortings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2117_A",
+    "source": "codeforces",
+    "contest_id": 2117,
+    "index": "A",
+    "name": "False Alarm",
+    "difficulty": 800,
+    "solved_count": 33555,
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/A",
+    "prompt": "Problem: False Alarm\n\nDifficulty: 800\nTags: greedy, implementation\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_001",
+    "source": "usaco",
+    "name": "Fence Planning 2",
+    "difficulty": "medium",
+    "problem_type": "graph",
+    "prompt": "Problem: Fence Planning 2\n\nType: graph\nDifficulty: medium\n\nFind optimal fence layout. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_010",
+    "source": "usaco",
+    "name": "Fence Planning 11",
+    "difficulty": "medium",
+    "problem_type": "graph",
+    "prompt": "Problem: Fence Planning 11\n\nType: graph\nDifficulty: medium\n\nFind optimal fence layout. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_al",
+    "source": "atcoder",
+    "name": "AP2. 付録2.提出結果の見方",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_al",
+    "prompt": "Problem: AP2. 付録2.提出結果の見方\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_000",
+    "source": "usaco",
+    "name": "Cow Migration 1",
+    "difficulty": "easy",
+    "problem_type": "simulation",
+    "prompt": "Problem: Cow Migration 1\n\nType: simulation\nDifficulty: easy\n\nTrack cow movements in a field. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2125_A",
+    "source": "codeforces",
+    "contest_id": 2125,
+    "index": "A",
+    "name": "Difficult Contest",
+    "difficulty": 800,
+    "solved_count": 24511,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "sortings",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2125/A",
+    "prompt": "Problem: Difficult Contest\n\nDifficulty: 800\nTags: constructive algorithms, implementation, sortings, strings\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "atc_APG4bPython_cu",
+    "source": "atcoder",
+    "name": "EX2. エラーの修正",
+    "contest_id": "APG4bPython",
+    "difficulty": "medium",
+    "url": "https://atcoder.jp/contests/APG4bPython/tasks/APG4bPython_cu",
+    "prompt": "Problem: EX2. エラーの修正\n\nContest: APG4bPython\n\nSolve this AtCoder competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2118_A",
+    "source": "codeforces",
+    "contest_id": 2118,
+    "index": "A",
+    "name": "Equal Subsequences",
+    "difficulty": 800,
+    "solved_count": 26543,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2118/A",
+    "prompt": "Problem: Equal Subsequences\n\nDifficulty: 800\nTags: constructive algorithms, greedy\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_008",
+    "source": "usaco",
+    "name": "Milk Scheduling 9",
+    "difficulty": "hard",
+    "problem_type": "dynamic_programming",
+    "prompt": "Problem: Milk Scheduling 9\n\nType: dynamic_programming\nDifficulty: hard\n\nOptimize milk production schedule. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2124_C",
+    "source": "codeforces",
+    "contest_id": 2124,
+    "index": "C",
+    "name": "Subset Multiplication",
+    "difficulty": 1300,
+    "solved_count": 12227,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2124/C",
+    "prompt": "Problem: Subset Multiplication\n\nDifficulty: 1300\nTags: constructive algorithms, greedy, math, number theory\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2130_B",
+    "source": "codeforces",
+    "contest_id": 2130,
+    "index": "B",
+    "name": "Pathless",
+    "difficulty": 1100,
+    "solved_count": 17288,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2130/B",
+    "prompt": "Problem: Pathless\n\nDifficulty: 1100\nTags: constructive algorithms\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_015",
+    "source": "usaco",
+    "name": "Cow Migration 16",
+    "difficulty": "easy",
+    "problem_type": "simulation",
+    "prompt": "Problem: Cow Migration 16\n\nType: simulation\nDifficulty: easy\n\nTrack cow movements in a field. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "usaco_005",
+    "source": "usaco",
+    "name": "Milk Scheduling 6",
+    "difficulty": "hard",
+    "problem_type": "dynamic_programming",
+    "prompt": "Problem: Milk Scheduling 6\n\nType: dynamic_programming\nDifficulty: hard\n\nOptimize milk production schedule. This is a USACO-style competitive programming problem.",
+    "language": "cpp",
+    "dataset": "training"
+  },
+  {
+    "id": "cf_2113_B",
+    "source": "codeforces",
+    "contest_id": 2113,
+    "index": "B",
+    "name": "Good Start",
+    "difficulty": 1200,
+    "solved_count": 12287,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2113/B",
+    "prompt": "Problem: Good Start\n\nDifficulty: 1200\nTags: constructive algorithms, math\n\nSolve this Codeforces problem.",
+    "language": "cpp",
+    "dataset": "training"
+  }
+]

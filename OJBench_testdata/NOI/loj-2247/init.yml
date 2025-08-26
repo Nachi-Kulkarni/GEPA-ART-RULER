@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: game8.in
+  out: game8.ans
+  points: 10
+- in: game7.in
+  out: game7.ans
+  points: 10
+- in: game10.in
+  out: game10.ans
+  points: 10
+- in: game3.in
+  out: game3.ans
+  points: 10
+- in: game2.in
+  out: game2.ans
+  points: 10
+- in: game6.in
+  out: game6.ans
+  points: 10
+- in: game1.in
+  out: game1.ans
+  points: 10
+- in: game5.in
+  out: game5.ans
+  points: 10
+- in: game9.in
+  out: game9.ans
+  points: 10
+- in: game4.in
+  out: game4.ans
+  points: 10

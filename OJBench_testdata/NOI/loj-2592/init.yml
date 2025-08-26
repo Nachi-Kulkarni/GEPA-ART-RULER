@@ -1,0 +1,32 @@
+archive: tests.zip
+test_cases:
+- in: translate8.in
+  out: translate8.ans
+  points: 10
+- in: translate7.in
+  out: translate7.ans
+  points: 10
+- in: translate6.in
+  out: translate6.ans
+  points: 10
+- in: translate3.in
+  out: translate3.ans
+  points: 10
+- in: translate9.in
+  out: translate9.ans
+  points: 10
+- in: translate10.in
+  out: translate10.ans
+  points: 10
+- in: translate1.in
+  out: translate1.ans
+  points: 10
+- in: translate2.in
+  out: translate2.ans
+  points: 10
+- in: translate5.in
+  out: translate5.ans
+  points: 10
+- in: translate4.in
+  out: translate4.ans
+  points: 10
