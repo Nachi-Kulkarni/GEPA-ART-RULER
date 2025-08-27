@@ -1,17 +1,95 @@
-torch>=2.8.0
-torchvision>=0.23.0
-torchaudio>=2.8.0
-transformers>=4.36.0
-accelerate>=0.21.0
-datasets>=2.14.6
-numpy>=1.21.0
+# GEPA+ART+RULER Requirements
+# Unified dependencies for both development and production
+
+# ========================================
+# DEVELOPMENT DEPENDENCIES (Always Required)
+# ========================================
+
+# Core Python utilities
+numpy>=1.24.0
 pandas>=2.0.0
 tqdm>=4.66.3
 rich>=13.0.0
 pyyaml>=6.0.0
-dmoj==4.1.0
-ojbench==0.0.3
-gepa==0.0.4
+loguru>=0.7.2
+filelock>=3.18.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Development tools
 black>=25.1.0
 flake8>=7.3.0
 pytest>=8.4.1
+ipython>=8.15.0
+
+# Configuration
+pydantic>=2.0.0
+psutil>=5.9.0
+
+# ========================================
+# PRODUCTION DEPENDENCIES (GPU Environment)
+# ========================================
+
+# Core ML/AI frameworks (install with CUDA support)
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+transformers>=4.36.0
+accelerate>=0.25.0
+datasets>=2.16.0
+peft>=0.7.0
+bitsandbytes>=0.41.0
+
+# HuggingFace integration
+huggingface-hub>=0.19.0
+safetensors>=0.4.0
+
+# Monitoring and logging
+wandb>=0.16.0
+tensorboard>=2.15.0
+
+# API integrations
+httpx>=0.25.0
+
+# System utilities for GPU training
+scikit-learn>=1.3.0
+
+# ========================================
+# OPTIONAL DEPENDENCIES (Install if needed)
+# ========================================
+
+# For enhanced performance (Linux GPU systems):
+# ninja>=1.11.0
+# triton>=2.1.0  
+# deepspeed>=0.12.0
+# flash-attn>=2.4.0
+
+# For API-based training (if using external APIs):
+# openpipe-art>=0.4.9
+# langchain-core>=0.2.0
+# langgraph>=0.1.0
+
+# For notebook development:
+# jupyter>=1.0.0
+
+# ========================================
+# LOCAL PACKAGES (Install from all_dependencies/)
+# ========================================
+# Run these commands after pip install -r requirements.txt:
+# 
+# cd all_dependencies/gepa && pip install -e .
+# cd all_dependencies/OJBench && pip install -e .
+# cd all_dependencies/judge-server && pip install -e .  # Linux only
+
+# ========================================
+# INSTALLATION INSTRUCTIONS
+# ========================================
+# 
+# Development (CPU only):
+#   pip install -r requirements.txt
+# 
+# Production (GPU with CUDA):
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+#   pip install -r requirements.txt
+#   cd all_dependencies/gepa && pip install -e .
+#   cd all_dependencies/OJBench && pip install -e .
