@@ -3,17 +3,11 @@ import json
 from pathlib import Path
 from typing import Dict, List, Optional
 
-try:
-    from .models.qwen_interface import Qwen3Interface
-except ImportError:
-    from .models.mock_model_interface import MockModelInterface as Qwen3Interface
+from .models.qwen_local_interface import Qwen3LocalInterface
 from .gepa.run_gepa import run_gepa_optimization
 from .art.art_solver import ARTSolver  
 from .ruler.ruler_analyzer import RULERAnalyzer
-try:
-    from .evaluation.ojbench_interface import OJBenchEvaluator
-except ImportError:
-    from .evaluation.mock_ojbench import MockOJBenchEvaluator as OJBenchEvaluator
+from .evaluation.real_ojbench import OJBenchEvaluator
 
 class GEPAARTRULERSystem:
     def __init__(self, cache_dir: str = "data/cache"):
@@ -23,8 +17,17 @@ class GEPAARTRULERSystem:
         self.cache_dir.mkdir(exist_ok=True, parents=True)
         
         # Initialize components
-        print("🤖 Initializing Qwen3-4B model...")
-        self.model = Qwen3Interface()
+        print("🤖 Initializing Qwen3-4B-Thinking-2507 model...")
+        # Model config would be passed from the main configuration
+        model_config = {
+            "name": "Qwen/Qwen3-4B-Thinking-2507",
+            "context_length": 4096,
+            "max_generation_tokens": 4096,
+            "trust_remote_code": True,
+            "torch_dtype": "float16",
+            "device_map": "auto"
+        }
+        self.model = Qwen3LocalInterface(model_config)
         
         print("⚙️  Initializing ART solver...")
         self.art_solver = ARTSolver(self.model)
@@ -106,7 +109,7 @@ class GEPAARTRULERSystem:
             
             # ART: Generate solution with structured reasoning
             attempt_start = time.time()
-            response = self.model.generate(conversation_history, max_tokens=32000)
+            response = self.model.generate(conversation_history, max_tokens=3200)
             
             # Parse the response
             from .utils.code_parser import CodeParser

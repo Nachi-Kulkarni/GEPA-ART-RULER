@@ -1,5 +1,0 @@
-archive: data.zip
-test_cases:
-- in: 2.in
-  out: 2.ans
-  points: 1

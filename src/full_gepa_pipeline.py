@@ -15,11 +15,10 @@ from dataclasses import dataclass
 # Add src to Python path
 sys.path.insert(0, str(Path(__file__).parent))
 
-# Import modules with error handling
+# Import modules with error handling  
 try:
-    from config.openrouter_config import OpenRouterConfig, setup_openrouter_env
-    from models.openrouter_interface import OpenRouterInterface
     from utils.code_parser import extract_python_code, extract_cpp_code
+    print("✅ Core utils imported - OpenRouter API components removed")
 except ImportError as e:
     print(f"❌ Import error: {e}")
     sys.exit(1)
@@ -224,18 +223,11 @@ class FullGEPAOptimizer:
     
     def __init__(self):
         print("🚀 Initializing Full GEPA Optimization Pipeline...")
+        print("📝 Note: OpenRouter API components removed - local GPU training only")
         
-        # Setup API
-        if not setup_openrouter_env():
-            raise Exception("Please set OPENROUTER_API_KEY environment variable")
-        
-        self.config = OpenRouterConfig()
         self.evaluator = RealOJBenchEvaluator()
         
-        # Test API connectivity
-        self._test_api_connectivity()
-        
-        print("✅ Full GEPA Pipeline ready!")
+        print("✅ Full GEPA Pipeline ready (mock mode)!")
         
     def _test_api_connectivity(self):
         """Test both models for connectivity"""

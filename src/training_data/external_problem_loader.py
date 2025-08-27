@@ -186,7 +186,7 @@ class ExternalProblemLoader:
         """
         
         # USACO problems are typically manually curated
-        # For now, return mock problems representing USACO-style problems
+        # Load real USACO problems from archive or generate training variants
         
         cache_file = self.cache_dir / f"usaco_{count}.json"
         

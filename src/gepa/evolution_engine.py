@@ -130,10 +130,10 @@ Hybrid prompt:
         
         try:
             # Generate solution
-            response = self.model.generate(full_prompt, max_tokens=32000)
+            response = self.model.generate(full_prompt, max_tokens=3200)
             
             # Extract code
-            from ..utils.code_parser import CodeParser
+            from utils.code_parser import CodeParser
             parser = CodeParser()
             language, code = parser.get_main_solution(response)
             
@@ -146,9 +146,7 @@ Hybrid prompt:
             
         except Exception as e:
             print(f"    Error testing problem {problem['id']}: {e}")
-            # Return random result for mock testing
-            import random
-            return random.random() > 0.7  # 30% success rate for testing
+            return False  # Failed to generate or evaluate solution
     
     def evolve_generation(self, population: List[PromptCandidate]) -> List[PromptCandidate]:
         """Create the next generation through selection, crossover, and mutation"""

@@ -2,49 +2,55 @@ from typing import List, Dict
 import json
 from pathlib import Path
 from .evolution_engine import GEPAEvolutionEngine
-try:
-    from ..evaluation.ojbench_interface import OJBenchEvaluator
-except ImportError:
-    from ..evaluation.mock_ojbench import MockOJBenchEvaluator as OJBenchEvaluator
-from ..prompts.base_prompt import BASE_PROMPT
+from evaluation.real_ojbench import OJBenchEvaluator
+from prompts.base_prompt import BASE_PROMPT
 
 def select_training_problems(evaluator: OJBenchEvaluator, count: int = 12) -> List[Dict]:
-    """Select diverse problems for GEPA training"""
+    """Select diverse problems for GEPA training from real OJBench problems"""
     
-    # For mock evaluator, create sample problems
-    if hasattr(evaluator, 'is_mock'):
-        print(f"🎭 Using mock training problems for GEPA")
-        return [
-            {"id": "gepa_train_1", "prompt": "Given n, output n*2", "difficulty": "easy", "dataset": "mock"},
-            {"id": "gepa_train_2", "prompt": "Find sum of array", "difficulty": "easy", "dataset": "mock"},
-            {"id": "gepa_train_3", "prompt": "Count vowels in string", "difficulty": "medium", "dataset": "mock"},
-            {"id": "gepa_train_4", "prompt": "Binary search implementation", "difficulty": "medium", "dataset": "mock"},
-            {"id": "gepa_train_5", "prompt": "Longest common subsequence", "difficulty": "hard", "dataset": "mock"},
-        ]
-    
-    # Get balanced selection across difficulties and datasets
+    # Get balanced selection from real OJBench problems
     selected = []
     
-    # 4 easy, 5 medium, 3 hard - balanced across NOI and ICPC
+    # Initialize evaluator if needed
+    if not hasattr(evaluator, 'problems') or not evaluator.problems:
+        from pathlib import Path
+        problem_dirs = [
+            Path("OJBench_testdata/NOI"),
+            Path("OJBench_testdata/ICPC")
+        ]
+        evaluator.initialize_problems(problem_dirs)
+    
+    # 4 easy, 5 medium, 3 hard - balanced across NOI and ICPC  
     for difficulty, target_count in [("easy", 4), ("medium", 5), ("hard", 3)]:
         # Get problems of this difficulty
         candidates = evaluator.get_problems_subset(
-            difficulty=difficulty, 
-            language="cpp"
+            difficulty=difficulty,
+            language="cpp",
+            limit=target_count * 2  # Get more candidates to choose from
         )
         
-        # Balance between NOI and ICPC
-        noi_problems = [p for p in candidates if p['dataset'] == 'NOI']
-        icpc_problems = [p for p in candidates if p['dataset'] == 'ICPC']
+        if not candidates:
+            print(f"⚠️  No {difficulty} problems found, using available problems")
+            candidates = evaluator.get_problems_subset(limit=target_count)
         
-        # Take roughly half from each dataset
-        half = target_count // 2
-        selected.extend(noi_problems[:half])
-        selected.extend(icpc_problems[:target_count - half])
+        # Balance between NOI and ICPC if both datasets available
+        noi_problems = [p for p in candidates if p.get('dataset') == 'NOI']
+        icpc_problems = [p for p in candidates if p.get('dataset') == 'ICPC']
+        
+        if noi_problems and icpc_problems:
+            # Take roughly half from each dataset
+            half = target_count // 2
+            selected.extend(noi_problems[:half])
+            selected.extend(icpc_problems[:target_count - half])
+        else:
+            # Use whatever problems are available
+            selected.extend(candidates[:target_count])
     
-    print(f"Selected {len(selected)} training problems:")
+    print(f"✅ Selected {len(selected)} real OJBench training problems:")
     for p in selected:
-        print(f"  - {p['id']}: {p['difficulty']} ({p['dataset']})")
+        dataset = p.get('dataset', 'unknown')
+        difficulty = p.get('difficulty', 'unknown')
+        print(f"  - {p['id']}: {difficulty} ({dataset})")
     
     return selected
 
@@ -87,7 +93,11 @@ def run_gepa_optimization(model_interface, output_dir: str = "data/gepa_results"
     with open(output_path / "best_prompt.txt", "w") as f:
         f.write(best_candidate.text)
     
-    print(f"💾 Results saved to {output_path}")
-    print(f"📈 Improvement: {((best_candidate.fitness_score - 0.179) / 0.179 * 100):+.1f}%")
+    print(f"💾 GEPA evolution results saved to {output_path}")
+    if best_candidate.fitness_score > 0:
+        print(f"📈 Performance improvement: {((best_candidate.fitness_score - 0.179) / 0.179 * 100):+.1f}%")
+    else:
+        print(f"📊 Best fitness score: {best_candidate.fitness_score:.3f}")
+    print(f"🧬 Evolved prompt ready for ART+RULER training")
     
     return best_candidate.text

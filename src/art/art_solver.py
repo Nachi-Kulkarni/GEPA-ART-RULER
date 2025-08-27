@@ -1,20 +1,14 @@
 from typing import Dict, List, Tuple, Optional
 import time
 
-try:
-    from ..models.qwen_interface import Qwen3Interface
-except ImportError:
-    from ..models.mock_model_interface import MockModelInterface as Qwen3Interface
+from models.qwen_local_interface import Qwen3LocalInterface
     
-from ..utils.code_parser import CodeParser
-try:
-    from ..evaluation.ojbench_interface import OJBenchEvaluator
-except ImportError:
-    from ..evaluation.mock_ojbench import MockOJBenchEvaluator as OJBenchEvaluator
+from utils.code_parser import CodeParser
+from evaluation.real_ojbench import OJBenchEvaluator
 
 class ARTSolver:
-    def __init__(self, model_interface: Optional[Qwen3Interface] = None):
-        self.model = model_interface or Qwen3Interface()
+    def __init__(self, model_interface: Optional[Qwen3LocalInterface] = None):
+        self.model = model_interface
         self.parser = CodeParser()
         self.evaluator = OJBenchEvaluator()
         
@@ -61,7 +55,7 @@ class ARTSolver:
             
             # Step 1: Generate solution
             gen_start = time.time()
-            response = self.model.generate(conversation, max_tokens=32000)
+            response = self.model.generate(conversation, max_tokens=3200)
             attempt_log["generation_time"] = time.time() - gen_start
             
             # Step 2: Parse the response
